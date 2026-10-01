@@ -154,4 +154,4 @@ All queries are in `customer_shopping_behavior_sql.sql`.
 B.Tech Computer Science Engineering, VIT Chennai
 
 - GitHub: [@amrithab07](https://github.com/amrithab07)
-- LinkedIn: [Amritha Baratam](https://www.linkedin.com/in/amrithabaratam)
+- LinkedIn: [Amritha Baratam](https://www.linkedin.com/in/amritha-baratam)
